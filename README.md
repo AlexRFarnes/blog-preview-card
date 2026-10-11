@@ -46,7 +46,7 @@ Users should be able to:
 
 ### What I learned
 
-For this challenge I wanted to practice the use of Flexbox and reinforce how to properly structure a css file.
+For this challenge I wanted to practice the use of Flexbox and reinforce how to properly structure a css file. I used CSS Grid on the body with two rows, one using `1fr` and the other with `auto`. This allows to put the attribution all the way to the bottom of the page and give all the remaining space to the card component. Flex was used in the card component with a fixed gap because the space is even between the three main sections of the card.
 
 ### Continued development
 
